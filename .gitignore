@@ -1,7 +1,7 @@
 config.json
 notes/
 bernardo.db
-
+bernardo.bat
 
 # Logs
 logs
@@ -107,5 +107,3 @@ dist
 
 # TernJS port file
 .tern-port
-bernardo.bat
-cmd.exe.lnk
