@@ -1,5 +1,5 @@
 const Discord = require("discord.js");
-const OpenWeatherAPI = require("openweather-api-node")
+const OpenWeatherAPI = require("openweather-api-node");
 const config = require("../config.json");
 const db = require("../database.js");
 
