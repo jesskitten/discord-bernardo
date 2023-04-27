@@ -2,6 +2,7 @@ config.json
 notes/
 bernardo.db
 
+
 # Logs
 logs
 *.log
